@@ -1,0 +1,1 @@
+INSERT INTO STUDENT (student_Name) VALUES ('test2');
